@@ -30,8 +30,12 @@
     "@angular/platform-server": "~7.0",
     "@angular/router": "~7.0",
     "@angular/upgrade": "~7.0",
+    "@theia/core": "^0.4.0",
     "core-js": "~2.5",
+    "file-loader": "^3.0.1",
     "rxjs": "~6.3",
+    "style-loader": "^0.23.1",
+    "url-loader": "^1.1.2",
     "zone.js": "~0.8"
   },
   "devDependencies": {

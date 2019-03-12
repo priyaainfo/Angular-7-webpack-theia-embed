@@ -5,11 +5,13 @@ import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
 import { HomeComponent } from './shared/components/home/home.component';
+import { TheiaEmbedComponent } from './theia-embed/theia-embed.component';
 
 @NgModule({
     declarations: [
         AppComponent,
-        HomeComponent
+        HomeComponent,
+        TheiaEmbedComponent
     ],
     imports: [
         BrowserModule,
